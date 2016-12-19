@@ -1157,8 +1157,10 @@ form[name=profile_settings] input.warning, form[name=profile_settings] select.wa
 	-webkit-transform: translateZ(0);
 
 	top: 0;
-
+            
 	width: 100%;
+	
+	right: 0;
 
 	z-index: 99;
 
