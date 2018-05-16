@@ -1,0 +1,7 @@
+$(document).ready(function(){
+	window.setInterval(function(){
+		$.ajax({
+			url: '/ajax/online.php'
+		});
+	}, 10000);
+})
